@@ -4,6 +4,6 @@ Hello Git 33fix
 Hello Git
 Hello Git
 Hello Git
-Hello Git
+Hello Git master merge confict
 Hello Git
 
